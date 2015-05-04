@@ -2,14 +2,14 @@
 
 ### What is this for? ###
 
-Cloud-Press offers a "pro" website feature that allows you to export your website to a remote server.
+[Cloud-Press](http://cloud-press.net) offers a "pro" website feature that allows you to export your website to a remote server.
 This plugin enables the pro features on an individual site instead of your overall account for absolutely no cost by exploiting a vulnerability in their system.
 
 ### How do I get set up? ###
 
-* Create a Cloud-Press account
-* Create a Cloud-Press website
-* Download the plugin ( https://bitbucket.org/notmike101/cloud-press-pro-enabler/downloads/ ) 
+* Create a [Cloud-Press](http://cloud-press.net) account by going [here](http://cloud-press.net)
+* Create a [Cloud-Press](http://cloud-press.net) website
+* [Download the plugin](https://bitbucket.org/notmike101/cloud-press-pro-enabler/downloads/) by going [here](https://bitbucket.org/notmike101/cloud-press-pro-enabler/downloads/)
 * Install the plugin
 * Enable the plugin
 
