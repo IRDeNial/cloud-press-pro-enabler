@@ -9,7 +9,7 @@ This plugin enables the pro features on an individual site instead of your overa
 
 * Create a [Cloud-Press](http://cloud-press.net) account by going [here](http://cloud-press.net)
 * Create a [Cloud-Press](http://cloud-press.net) website
-* [Download the plugin](https://bitbucket.org/notmike101/cloud-press-pro-enabler/downloads/) by going [here](https://bitbucket.org/notmike101/cloud-press-pro-enabler/downloads/)
+* [Download the plugin](https://gitlab.com/notmike101/cloud-press-pro-enabler/repository/archive.zip?ref=master)
 * Install the plugin
 * Enable the plugin
 
