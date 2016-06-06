@@ -30,7 +30,7 @@ We hope this response has sufficiently answered your questions. If not, please d
 
 * Create a [Cloud-Press](http://cloud-press.net) account by going [here](http://cloud-press.net)
 * Create a [Cloud-Press](http://cloud-press.net) website
-* [Download the plugin](https://gitlab.com/notmike101/cloud-press-pro-enabler/repository/archive.zip?ref=master)
+* [Download the plugin](https://github.com/IRDeNial/cloud-press-pro-enabler/archive/master.zip)
 * Install the plugin
 * Enable the plugin
 
