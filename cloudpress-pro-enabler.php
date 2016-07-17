@@ -2,11 +2,9 @@
 
 /*
 Plugin Name: Cloud-Press Pro Site Enabler
-Plugin URI: https://bitbucket.org/notmike101/cloud-press-pro-enabler/
 Description: Enables the Pro features on your cloud-press website.
 Version: 1.0
-Author: Mike O
-Author URI: https://bitbucket.org/notmike101
+Author: Mike
 License: GPL2
 */
 
